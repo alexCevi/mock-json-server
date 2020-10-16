@@ -1,13 +1,197 @@
 {
-  "icn": "12eraadf3",
-  "exclusions" : [
-    {
-      "title": "green paint",
-      "type": "shelf"
-    },
-    {
-      "title": "green paint",
-      "type": "shelf"
-    }
+   "orderNumber":102411,
+   "cvid":"102411-1",
+   "address":"4808 Valerie Part 2",
+   "icn":19124007,
+   "lineItem":"B3D33",
+   "cabinet":"1",
+   "width":35,
+   "height":35.25,
+   "depth":24,
+   "area":"AREA 1",
+   "facemat":"HDF",
+   "finish":"UNFINISHED",
+   "doorStyle":"APRILIA-116 ROUNDOVER",
+   "casemat":"PLYWOOD-UV FINISH",
+   "hingeSelection":"CONCEALED INSET",
+   "drawerGuide":"DYNAPRO GRASS FE UNDERMOUNT MOTION",
+   "drawerBox":"DOVETAIL JOINT-SOLID WOOD-UV 58",
+   "children":[
+      {
+         "itemDesc":"MWPEDB003",
+         "cabinet":"1",
+         "qty":1,
+         "width":"0",
+         "length":"0",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Unfinished Right End",
+         "cabinet":"1",
+         "qty":1,
+         "width":"23 1/2",
+         "length":"35 1/4",
+         "depth":"1/2"
+      },
+      {
+         "itemDesc":"Deck",
+         "cabinet":"1",
+         "qty":1,
+         "width":"22 3/4",
+         "length":"33",
+         "depth":"1/2"
+      },
+      {
+         "itemDesc":"Unfinished Back",
+         "cabinet":"1",
+         "qty":1,
+         "width":"33",
+         "length":"30",
+         "depth":"1/4"
+      },
+      {
+         "itemDesc":"Skin-Bottom Interior",
+         "cabinet":"1",
+         "qty":1,
+         "width":"22 1/2",
+         "length":"16 3/8",
+         "depth":"1/4"
+      },
+      {
+         "itemDesc":"Nailer",
+         "cabinet":"1",
+         "qty":1,
+         "width":"8",
+         "length":"32 1/2",
+         "depth":"1/2"
+      },
+      {
+         "itemDesc":"Nailer",
+         "cabinet":"1",
+         "qty":1,
+         "width":"8",
+         "length":"32 1/2",
+         "depth":"1/2"
+      },
+      {
+         "itemDesc":"Finished INT SKIN FRONT",
+         "cabinet":"1",
+         "qty":1,
+         "width":"14 3/4",
+         "length":"27 3/4",
+         "depth":"1/4"
+      },
+      {
+         "itemDesc":"Skin - Right Finished",
+         "cabinet":"1",
+         "qty":1,
+         "width":"23 3/8",
+         "length":"35 1/4",
+         "depth":"1/4"
+      },
+      {
+         "itemDesc":"Divider",
+         "cabinet":"1",
+         "qty":1,
+         "width":"22 1/2",
+         "length":"29 3/4",
+         "depth":"3/4"
+      },
+      {
+         "itemDesc":"ATC250S-18",
+         "cabinet":"1",
+         "qty":1,
+         "width":"14 13/16",
+         "length":"22 15/16",
+         "depth":"3/4"
+      },
+      {
+         "itemDesc":"Unfinished Left End",
+         "cabinet":"1",
+         "qty":1,
+         "width":"23 1/2",
+         "length":"35 1/4",
+         "depth":"1/2"
+      },
+      {
+         "itemDesc":"Aprilia - Drawer - Large",
+         "cabinet":"1",
+         "qty":1,
+         "width":"15 1/4",
+         "length":"9 3/16",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Aprilia - Drawer - Large",
+         "cabinet":"1",
+         "qty":1,
+         "width":"15 1/4",
+         "length":"9 3/16",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Aprilia - Drawer - Large",
+         "cabinet":"1",
+         "qty":1,
+         "width":"15 1/4",
+         "length":"9 3/16",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Aprilia - Drawer - Large",
+         "cabinet":"1",
+         "qty":1,
+         "width":"15 1/4",
+         "length":"9 3/16",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Aprilia - Drawer - Large",
+         "cabinet":"1",
+         "qty":1,
+         "width":"15 1/4",
+         "length":"9 3/16",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Aprilia - Drawer - Large",
+         "cabinet":"1",
+         "qty":1,
+         "width":"15 1/4",
+         "length":"9 3/16",
+         "depth":"0"
+      },
+      {
+         "itemDesc":"Drawer- 1-47",
+         "cabinet":"1",
+         "qty":1,
+         "width":"1",
+         "length":"1",
+         "depth":"1"
+      },
+      {
+         "itemDesc":"Drawer- 1-48",
+         "cabinet":"1",
+         "qty":1,
+         "width":"1",
+         "length":"1",
+         "depth":"1"
+      },
+      {
+         "itemDesc":"Drawer- 1-49",
+         "cabinet":"1",
+         "qty":1,
+         "width":"1",
+         "length":"1",
+         "depth":"1"
+      },
+      {
+         "itemDesc":"Frame-B3D33 1",
+         "cabinet":"1",
+         "qty":1,
+         "width":"35",
+         "length":"35 1/4",
+         "depth":"3/4"
+      }
    ]
 }
